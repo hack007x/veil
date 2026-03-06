@@ -1,0 +1,13 @@
+## id: example-version-detect
+## name: HTTP Server Version Detection
+## author: hack007x
+## severity: info
+## tags: detect, fingerprint
+## description: Detects web server software and version from response headers.
+
+GET /
+User-Agent: {{random_ua}}
+
+#@ matcher: status_code >= 200 && status_code < 500
+#> extract: name=server, from=headers, kval=Server
+#> extract: name=powered_by, from=headers, kval=X-Powered-By
