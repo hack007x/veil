@@ -1,13 +1,28 @@
-# Veil
+<div align="center">
 
-<p align="center">
-  <b>A high-performance, template-driven vulnerability scanner</b><br>
-  <i>Custom .poc template syntax · Multi-request chains · OOB callback verification · Attack mode combinations</i>
-</p>
+<img width="120" height="120" alt="Veil icon" src="https://github.com/user-attachments/assets/bd77c292-f442-4f87-9355-cd3a2e0c1597" />
 
-<p align="center">
-  <a href="README.md">中文</a>
-</p>
+「Mirrored Flowers and Reflected Moon — where illusion and reality give rise to each other.」
+
+See beyond appearances to grasp the essence · Turn the intangible into the tangible to safeguard security
+
+<br>
+
+**Template-based vulnerability scanner**
+
+Veil is a fast, template-driven HTTP vulnerability scanner written in Go.<br>
+It executes `.poc` template files against one or more targets,<br>
+evaluates flexible matcher expressions against responses,<br>
+extracts evidence from response bodies,<br>
+and outputs clean, colour-coded results.
+
+<br>
+
+[<code>English</code>](https://github.com/hack007x/veil/blob/main/README-en.md) • 
+[<code>中文</code>](https://github.com/hack007x/veil/blob/main/README-zh.md) • 
+[<code>Write a proof-of-concept (PoC) using custom syntax.</code>](https://github.com/hack007x/veil/wiki/veil-Poc-%E8%AF%AD%E6%B3%95%E6%80%BB%E8%A7%88)
+
+</div>
 
 ---
 
