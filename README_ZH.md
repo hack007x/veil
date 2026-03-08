@@ -17,7 +17,8 @@ Veil 是一款使用 `.poc` 模板文件驱动的 HTTP 漏洞扫描器，使用 
 
 [<code>English</code>](https://github.com/hack007x/veil/blob/main/README_EN.md) • 
 [<code>中文</code>](https://github.com/hack007x/veil/blob/main/README_ZH.md) • 
-[<code>veil自定义语法编写(PoC)</code>](https://github.com/hack007x/veil/wiki/veil-Poc-%E8%AF%AD%E6%B3%95%E6%80%BB%E8%A7%88v1.2.0)
+[<code>veil自定义语法编写(PoC)</code>](https://github.com/hack007x/veil/wiki/veil-Poc-%E8%AF%AD%E6%B3%95%E6%80%BB%E8%A7%88v1.2.0) •
+[<code>POC</code>](https://github.com/hack007x/veil_poc) • 
 
 </div>
 
