@@ -315,11 +315,10 @@ Nested calls are supported: `{{base64({{payload}})}}`
 | `-timeout N` | Timeout in seconds | `10` |
 | `-proxy URL` | Proxy URL | |
 | `-no-verify-ssl` | Skip TLS verification | `false` |
-| `-no-follow-redirects` | Disable redirects | `false` |
+| `-verify-ssl` | Enable TLS certificate verification | `false` |
 | `-c N` | Concurrency | `10` |
 | `-v` | Verbose mode | `false` |
 | `-o FILE` | Output file (.json/.html) | |
-| `-stats` | Print statistics | `false` |
 | `-validate` | Validate templates and exit | `false` |
 | `-pl` | List all POCs | |
 | `-pv ID` | View POC by ID | |
