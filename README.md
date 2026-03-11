@@ -27,6 +27,22 @@ and outputs clean, colour-coded results.
 
 ---
 
+## Some small cases
+Veil is still under continuous development, with the latest version being v1.21. Many details are still being refined. The entire Proof-of-Concept (POC) has been rewritten. The biggest takeaway from writing this tool wasn't the functionality itself, but rather the complete implementation of the entire process of "constructing and matching an HTTP request," leading to a more thorough understanding of how scanners work.
+
+If you're interested in this project, feel free to discuss it in the comments section or follow for future updates.
+
+<img width="1080" height="899" alt="image" src="https://github.com/user-attachments/assets/49cf00a6-acc9-4e2f-aa2d-ede52e8abcf8" />
+<img width="1080" height="526" alt="image" src="https://github.com/user-attachments/assets/fbabbc68-15cb-4b12-9137-5da84476af09" />
+<img width="1080" height="572" alt="image" src="https://github.com/user-attachments/assets/b8d3fb10-a85c-4072-8dac-3bf59db7c5af" />
+<img width="1076" height="482" alt="image" src="https://github.com/user-attachments/assets/9f9fa0e6-c403-4c28-9ea7-e5b0670eea32" />
+<img width="1080" height="472" alt="image" src="https://github.com/user-attachments/assets/0faa38dc-1303-497c-ad56-6c634bbd9164" />
+
+
+
+
+
+---
 ## Table of Contents
 
 - [Features](#features)
