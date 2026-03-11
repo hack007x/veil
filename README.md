@@ -32,15 +32,13 @@ Veil is still under continuous development, with the latest version being v1.21.
 
 If you're interested in this project, feel free to discuss it in the comments section or follow for future updates.
 
-<img width="1080" height="899" alt="image" src="https://github.com/user-attachments/assets/49cf00a6-acc9-4e2f-aa2d-ede52e8abcf8" />
-<img width="1080" height="526" alt="image" src="https://github.com/user-attachments/assets/fbabbc68-15cb-4b12-9137-5da84476af09" />
-<img width="1080" height="572" alt="image" src="https://github.com/user-attachments/assets/b8d3fb10-a85c-4072-8dac-3bf59db7c5af" />
-<img width="1076" height="482" alt="image" src="https://github.com/user-attachments/assets/9f9fa0e6-c403-4c28-9ea7-e5b0670eea32" />
-<img width="1080" height="472" alt="image" src="https://github.com/user-attachments/assets/0faa38dc-1303-497c-ad56-6c634bbd9164" />
-
-
-
-
+<img width="1695" height="695" alt="image" src="https://github.com/user-attachments/assets/1acbe536-78df-4d7b-a6a7-a4064499cb57" />
+<img width="1638" height="812" alt="image" src="https://github.com/user-attachments/assets/6bb8bc8a-998a-4ff1-9d8c-c146067b7f37" />
+<img width="1696" height="791" alt="image" src="https://github.com/user-attachments/assets/0c397830-4886-4101-b85f-66579043d7ff" />
+<img width="1700" height="767" alt="image" src="https://github.com/user-attachments/assets/7fd36dd4-fa80-43f9-bee3-203ed08a5dd9" />
+<img width="1642" height="500" alt="image" src="https://github.com/user-attachments/assets/39e5c2ca-2bab-47f0-8d7a-2a87c280eb1d" />
+<img width="1191" height="688" alt="image" src="https://github.com/user-attachments/assets/be14f9f8-afd2-40e5-9297-8b993fd4478e" />
+<img width="1920" height="779" alt="image" src="https://github.com/user-attachments/assets/485f4ec7-5f5a-4224-bfeb-04f3b2a78c7b" />
 
 ---
 ## Table of Contents
