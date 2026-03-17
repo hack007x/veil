@@ -32,7 +32,7 @@ Veil is still under continuous development, with the latest version being v1.21.
 
 If you're interested in this project, feel free to discuss it in the comments section or follow for future updates.
 
-<img width="1695" height="695" alt="image" src="https://github.com/user-attachments/assets/1acbe536-78df-4d7b-a6a7-a4064499cb57" />
+<img width="1572" height="702" alt="image" src="https://github.com/user-attachments/assets/7309b36b-66c5-4bdb-8821-7021a134009d" />
 <img width="1638" height="812" alt="image" src="https://github.com/user-attachments/assets/6bb8bc8a-998a-4ff1-9d8c-c146067b7f37" />
 <img width="1696" height="791" alt="image" src="https://github.com/user-attachments/assets/0c397830-4886-4101-b85f-66579043d7ff" />
 <img width="1700" height="767" alt="image" src="https://github.com/user-attachments/assets/7fd36dd4-fa80-43f9-bee3-203ed08a5dd9" />
