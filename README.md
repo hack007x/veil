@@ -30,7 +30,8 @@ and outputs clean, colour-coded results.
 Feedback and Contribution<br>
 ---
 
-<table><tr><td align="center"><a href="https://github.com/wuha0926"><img src="https://github.com/wuha0926.png?size=100" width="70" height="70" style="border-radius: 50%;" alt="wuha0926"></a><br>wuha0926</td></tr></table>
+<table><tr><td align="center"><a href="https://github.com/wuha0926"><img src="https://github.com/wuha0926.png?size=100" width="70" height="70" style="border-radius: 50%;" alt="wuha0926"></a><br>wuha0926</td><td align="center"><a href="https://github.com/TwoconsinElizabech"><img src="https://github.com/TwoconsinElizabech.png?size=100" width="70" height="70" style="border-radius: 50%;" alt="TwoconsinElizabech"></a><br>TwoconsinElizabech</td></tr></table>
+
 
 ---
 ## Some small cases
