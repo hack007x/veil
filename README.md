@@ -35,7 +35,7 @@ Feedback and Contribution<br>
 
 ---
 ## Some small cases
-Veil is still under continuous development, with the latest version being v1.21. Many details are still being refined. The entire Proof-of-Concept (POC) has been rewritten. The biggest takeaway from writing this tool wasn't the functionality itself, but rather the complete implementation of the entire process of "constructing and matching an HTTP request," leading to a more thorough understanding of how scanners work.
+Veil is still under continuous development, with the latest version being v1.26. Many details are still being refined. The entire Proof-of-Concept (POC) has been rewritten. The biggest takeaway from writing this tool wasn't the functionality itself, but rather the complete implementation of the entire process of "constructing and matching an HTTP request," leading to a more thorough understanding of how scanners work.
 
 If you're interested in this project, feel free to discuss it in the comments section or follow for future updates.
 
